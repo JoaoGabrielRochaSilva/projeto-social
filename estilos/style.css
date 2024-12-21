@@ -47,7 +47,6 @@ iframe.tela {
 }
 
 section.redes-sociais {
-    margin: auto;
     text-align: center;
 }
 
@@ -72,8 +71,4 @@ section.redes-sociais img:hover {
     
     transition: transform 0.2s;
     transition: border 0.2s;
-}
-
-section.redes-sociais img:active {
-    text-decoration: none;
 }
